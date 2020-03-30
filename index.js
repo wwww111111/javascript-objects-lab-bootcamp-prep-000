@@ -1,4 +1,4 @@
-
+var newObj = {};
 
 function updateObjectWithKeyAndValue(object, key, value) {
   let newObj = Object.assign({}, object);
